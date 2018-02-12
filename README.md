@@ -24,6 +24,8 @@ En este documento se recogen algunos recursos útiles para el desarrollo del Tra
 * Inspiración de apps en Dribbble (tags): [mobile app design](https://dribbble.com/tags/mobile_app_design?s=popular) / [app](https://dribbble.com/tags/app?s=popular) / [mobile](https://dribbble.com/tags/mobile?s=popular)
 * Repositorio de iconos en formato vectorial: [SVG repo](https://www.svgrepo.com)
 * Catálogo de tipografías (repositorio más de 200 fuentes gratis): [Fontown](https://www.fontown.com/es)
+* Colección de 280 paletas de colores creadas por diseñadores: [Flat UI Colors 2](https://flatuicolors.com)
+* Colección de paletas de 4 colores: [LOL Colors](https://www.webdesignrankings.com/resources/lolcolors)
 
 ## 🛠 Arquitectura
 
